@@ -68,7 +68,7 @@ class ShoppingCart extends React.Component {
           <hr/>
           <h3>total <span className='right'>$9.38</span></h3>
           <hr/>
-          <small>cart number: 1016396673255</small>
+         
         </div>
       </div>
     )
